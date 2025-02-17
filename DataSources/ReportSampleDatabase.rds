@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataSourceDefinition xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/reportdefinition">
+  <ConnectString>Data Source=dataplatformdemodata.syncfusion.com;Initial Catalog=SampleDB;TrustServerCertificate=True;</ConnectString>
+  <CredentialRetrieval>Store</CredentialRetrieval>
+  <IsDesignState>false</IsDesignState>
+  <Enabled>true</Enabled>
+  <Extension>SQL</Extension>
+  <ImpersonateUser>false</ImpersonateUser>
+  <OriginalConnectStringExpressionBased>false</OriginalConnectStringExpressionBased>
+  <UseOriginalConnectString>false</UseOriginalConnectString>
+  <UserName>demoreadonly@data-platform-demo</UserName>
+  <WindowsCredentials>false</WindowsCredentials>
+  <CustomProperties />
+</DataSourceDefinition>
